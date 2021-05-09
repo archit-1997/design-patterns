@@ -1,5 +1,5 @@
 package factory;
 
 public interface Product {
-  public void type();
+	public void type();
 }
